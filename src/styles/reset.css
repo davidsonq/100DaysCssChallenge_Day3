@@ -1,0 +1,14 @@
+body,
+html,
+div,
+section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  font-size: 100%;
+  font: inherit;
+}
+body {
+  line-height: 1;
+}
