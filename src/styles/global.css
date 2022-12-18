@@ -1,0 +1,16 @@
+:root {
+  --color-scale1: #dddada;
+  --color-scale2: #f4f4f4;
+  --color-scale6: #ffffff;
+
+  --color-black1: #272c34;
+  --color-black2: rgba(0, 0, 0, 0.2);
+
+  --color-sand: #f0de75;
+
+  --color-sky1: #7ddffc;
+  --color-sky2: #7ddffc;
+
+  --color-sun1: #ffef00;
+  --color-sun2: #f57209;
+}
